@@ -1,5 +1,9 @@
 # charcoal
 
+OLD CODE from the charcoal project that I wanted to save. --ctb
+
+---
+
 Remove contaminated bits of genomes using "togetherness" correlations
 across metagenomes, combined with k-mer based taxonomic
 analysis.
